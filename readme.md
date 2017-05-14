@@ -1,4 +1,4 @@
-# Great SQL analytics app
+# Fantastic Hello World App
 
 # How to install the app
 
